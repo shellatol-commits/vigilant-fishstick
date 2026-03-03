@@ -2,7 +2,7 @@
 This world is an adventure map with the Secret Doors datapack. Play in 1.20/1.20.1
 [Click here then press New World then Download to download the file](https://drive.google.com/drive/folders/1zEjtbXcnhSwKGGQg4Xz4tEby1ssY2hGy?usp=sharing)
 
-Warning: After downloading, extract the file (because it is a ZIP) and copy the fodler and paste into the 1.20/1.20.1 saves folder. The datapack is already installed.
+Warning: After downloading, extract the file (because it is a ZIP) and copy the folder and paste into the 1.20/1.20.1 saves folder. The datapack is already installed.
 
 Sourcecode:
 ```
